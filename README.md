@@ -19,6 +19,6 @@ chmod +x install-sb.sh
 * Termux on andriod (tor connected if use vpn )
 
 # Contact
-* [gmail]([https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new])- vannoorsab
+* [gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)- vannoorsab
   
 
