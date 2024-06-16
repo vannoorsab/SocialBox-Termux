@@ -14,7 +14,7 @@ chmod +x install-sb.sh
 ./SocialBox.sh
 ```
 # Screenshots :
-![Test Image 8](https://github.com/vannoorsab/SocialBox-Termux/blob/master/Screenshots/sb.png)
+![Test Image 8](https://github.com/vannoorsab/SocialBox-Termux/blob/master/Screenshots/social.png)
 # Tested On :
 * Termux on andriod (tor connected if use vpn )
 
